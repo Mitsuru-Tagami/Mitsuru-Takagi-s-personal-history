@@ -1,4 +1,3 @@
-# Mitsuru-Takagi-s-personal-history
 Name
 自分史〜児童虐待の後遺症・新宗教二世・アスペルガー〜
 田上 光著
@@ -31,7 +30,13 @@ Install
 該当が見当たりません。
 
 Contribution
-参加方法ですって！？gitの使い方もよくわかってないのに校閲と校正ができる便利ツールらしいのでどんどんツッコミお待ちしてます。この項目書き足す！
+参加方法：githubのアカウントを作成→
+https://github.com/Mitsuru-Tagami/Mitsuru-Takagi-s-personal-history/issues
+掲示板機能があるので、誤字脱字はそこで申告してくれると助かります。
+forkしてcloneしてがっつり参加しても構いませんが、多分採用はされないかも知れません、ご了承ください。そして別版を作って頂いても全然構いません。
+githubアカウントを作らずに参加する方法は、カクヨムの方からフィードバックが用意されております。
+https://kakuyomu.jp/users/tagamimitsuru/news/16816452218810834546
+この近況ノートに誤字脱字等の指摘をしてくださると助かります。
 
 Licence
 CC-BY
